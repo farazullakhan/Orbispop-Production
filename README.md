@@ -4,6 +4,22 @@
 
 <p>GitHub Repo: <a href="https://github.com/farazullakhan/Orbispop-Production">https://github.com/farazullakhan/Orbispop-Production</a></p>
 
+<h2>📑 Table of Contents</h2>
+<ul>
+  <li><a href="#-features">🚀 Features</a></li>
+  <li><a href="#️-installation">🛠️ Installation</a></li>
+  <li><a href="#️-running-locally">🖥️ Running Locally</a></li>
+  <li><a href="#-linting">🧪 Linting</a></li>
+  <li><a href="#️-build-for-production">🛠️ Build for Production</a></li>
+  <li><a href="#-preview-production-build-locally">🚀 Preview Production Build Locally</a></li>
+  <li><a href="#-deployment">📦 Deployment</a></li>
+  <li><a href="#-project-structure">📂 Project Structure</a></li>
+  <li><a href="#-tech-stack">⚡ Tech Stack</a></li>
+  <li><a href="#-customization">✏️ Customization</a></li>
+  <li><a href="#-contributing">🤝 Contributing</a></li>
+  <li><a href="#-website--freelance">🌐 Website & Freelance</a></li>
+</ul>
+
 <h2>🚀 Features</h2>
 <ul>
   <li>Vite (blazing-fast dev server and build)</li>
