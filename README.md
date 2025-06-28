@@ -17,8 +17,8 @@
 
 <h2>🛠️ Installation</h2>
 <p>Clone the repository:</p>
-<pre><code>git clone https://github.com/farazullakhan/Orbispop-Production.git
-cd Orbispop-Production/project
+<pre><code>git clone https://github.com/farazullakhan/Orbispop-Production
+cd Orbispop-Production/
 </code></pre>
 
 <p>Install dependencies:</p>
@@ -102,8 +102,17 @@ cd Orbispop-Production/project
   <li>Extend components inside <code>src/</code> for your app logic.</li>
 </ul>
 
+<h2>🤝 Contributing</h2>
+<p>If you wish to improve Orbispop or add new features:</p>
+<ol>
+  <li>Fork the repository.</li>
+  <li>Create a new branch: <code>git checkout -b feature/your-feature</code>.</li>
+  <li>Commit your changes.</li>
+  <li>Push to your branch: <code>git push origin feature/your-feature</code>.</li>
+  <li>Open a pull request.</li>
+</ol>
 
-<h2>📞 Support</h2>
-<p>For issues or feature requests, open an issue on <a href="https://github.com/farazullakhan/Orbispop-Production/issues">GitHub Issues</a>.</p>
+<h2>🌐 Website & Freelance</h2>
+<p>Visit my website: <a href="https://farazautomates.com" target="_blank">farazautomates.com</a> to explore my work and contact me for <strong>freelance projects</strong> or collaboration opportunities.</p>
 
 <p><strong>Ready to launch your community or product with Orbispop? Let’s go 🚀</strong></p>
